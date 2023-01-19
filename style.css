@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
 * {
     border: 0;
     box-sizing: border-box;
@@ -18,7 +20,7 @@
   }
   body,
   input {
-    font: 1em/1.5 "Candara", sans-serif;
+    font: 1em/1.5 "Acme", sans-serif;
   }
   body {
     background-color: var(--white);
